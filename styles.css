@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(200, 213, 213);
+}
+.container-first-field {
+    background-color: red;
+}
+.container-second-field {
+    background-color: rgb(196, 196, 228);
+}
+.container-third-field {
+    background-color: rgb(120, 255, 221);
+}
+.container-fourth-field {
+    background-color: rgb(240, 234, 119);
+}
