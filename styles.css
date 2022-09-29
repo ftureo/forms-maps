@@ -1,5 +1,6 @@
 body {
     background-color: rgb(200, 213, 213);
+    font-family: "Quicksand", sans-serif;
 }
 .container-first-field {
     background-color: red;
@@ -12,4 +13,25 @@ body {
 }
 .container-fourth-field {
     background-color: rgb(240, 234, 119);
+}
+
+.container-maps {
+    background-color: rgb(114, 114, 208);
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 2vw 5vw;
+    justify-items: center;
+    align-items: center;
+}
+
+.container-maps iframe {
+    background-color: blueviolet;
+}
+.container-information {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color: rgb(85, 85, 238);
+    color: white;
+    text-align: center;
+    align-items: center;
 }
